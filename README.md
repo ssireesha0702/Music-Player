@@ -1,2 +1,2 @@
-# coding-raja-task2
-i have completed task 2
+Music Player 
+Made a music player with the HTML,CSS,Java Script and ReactJS
